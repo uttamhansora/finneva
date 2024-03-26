@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a1a4c07.css",
-    "main.js": "/static/js/main.c09db3a0.js",
+    "main.css": "/static/css/main.753f80a8.css",
+    "main.js": "/static/js/main.f08d1f9b.js",
     "static/js/787.0f7dc5a1.chunk.js": "/static/js/787.0f7dc5a1.chunk.js",
     "static/media/finneva-3.png": "/static/media/finneva-3.fba09dcd6f46ab8c3be3.png",
     "static/media/solutions-home-institution.png": "/static/media/solutions-home-institution.c676fe54ea61415dc473.png",
@@ -42,12 +42,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.9a1a4c07.css.map": "/static/css/main.9a1a4c07.css.map",
-    "main.c09db3a0.js.map": "/static/js/main.c09db3a0.js.map",
+    "main.753f80a8.css.map": "/static/css/main.753f80a8.css.map",
+    "main.f08d1f9b.js.map": "/static/js/main.f08d1f9b.js.map",
     "787.0f7dc5a1.chunk.js.map": "/static/js/787.0f7dc5a1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a1a4c07.css",
-    "static/js/main.c09db3a0.js"
+    "static/css/main.753f80a8.css",
+    "static/js/main.f08d1f9b.js"
   ]
 }
