@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ce443c5.css",
-    "main.js": "/static/js/main.af303fe7.js",
+    "main.css": "/static/css/main.f9866656.css",
+    "main.js": "/static/js/main.fdc72bbc.js",
     "static/js/787.0f7dc5a1.chunk.js": "/static/js/787.0f7dc5a1.chunk.js",
     "static/media/finneva-3.png": "/static/media/finneva-3.fba09dcd6f46ab8c3be3.png",
     "static/media/solutions-home-institution.png": "/static/media/solutions-home-institution.c676fe54ea61415dc473.png",
@@ -11,7 +11,7 @@
     "static/media/ishan.png": "/static/media/ishan.5ff78b59f91cce6b2719.png",
     "static/media/payable-extension.png": "/static/media/payable-extension.35d4ec47044e41f3d29e.png",
     "static/media/receivable-finance.png": "/static/media/receivable-finance.5a320442c16ebcaf9786.png",
-    "static/media/Cookie_Policy.pdf": "/static/media/Cookie_Policy.e0f576242329fdef4461.pdf",
+    "static/media/Cookie_Policy.pdf": "/static/media/Cookie_Policy.f3ee8e2c7f3af0ec6b70.pdf",
     "static/media/et.png": "/static/media/et.aa5d370cd3e9200c3616.png",
     "static/media/Microsoft_Azure_Logo.svg.png": "/static/media/Microsoft_Azure_Logo.svg.4aba8c8b1a40f2e788f5.png",
     "static/media/partnership.webp": "/static/media/partnership.3e5849739b801305e0b2.webp",
@@ -43,12 +43,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.3ce443c5.css.map": "/static/css/main.3ce443c5.css.map",
-    "main.af303fe7.js.map": "/static/js/main.af303fe7.js.map",
+    "main.f9866656.css.map": "/static/css/main.f9866656.css.map",
+    "main.fdc72bbc.js.map": "/static/js/main.fdc72bbc.js.map",
     "787.0f7dc5a1.chunk.js.map": "/static/js/787.0f7dc5a1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ce443c5.css",
-    "static/js/main.af303fe7.js"
+    "static/css/main.f9866656.css",
+    "static/js/main.fdc72bbc.js"
   ]
 }
