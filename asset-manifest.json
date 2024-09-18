@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0dece0e1.css",
-    "main.js": "/static/js/main.0ed817e7.js",
+    "main.js": "/static/js/main.ca3283dc.js",
     "static/js/787.0f7dc5a1.chunk.js": "/static/js/787.0f7dc5a1.chunk.js",
     "static/media/finneva-3.png": "/static/media/finneva-3.fba09dcd6f46ab8c3be3.png",
     "static/media/solutions-home-institution.png": "/static/media/solutions-home-institution.c676fe54ea61415dc473.png",
@@ -30,7 +30,7 @@
     "static/media/ComplyAdvantage-2019-Dark-Inline.png": "/static/media/ComplyAdvantage-2019-Dark-Inline.e32bf78f7f1761be6cf8.png",
     "static/media/deftra.webp": "/static/media/deftra.7662becdfd36a812653d.webp",
     "static/media/creset.webp": "/static/media/creset.d5f74f719360511db70f.webp",
-    "static/media/finneva.svg": "/static/media/finneva.48d0913fb287b47c84a997f10f707ec5.svg",
+    "static/media/finneva.svg": "/static/media/finneva.9d61c99d509c0332239e547e1fe3d1c1.svg",
     "static/media/salesgrowth.webp": "/static/media/salesgrowth.adb5c53cad75a9180ce0.webp",
     "static/media/raman.webp": "/static/media/raman.3e7d089d5a3353d55ea8.webp",
     "static/media/ramesh.webp": "/static/media/ramesh.de3c1053ece7b4639144.webp",
@@ -44,11 +44,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.0dece0e1.css.map": "/static/css/main.0dece0e1.css.map",
-    "main.0ed817e7.js.map": "/static/js/main.0ed817e7.js.map",
+    "main.ca3283dc.js.map": "/static/js/main.ca3283dc.js.map",
     "787.0f7dc5a1.chunk.js.map": "/static/js/787.0f7dc5a1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0dece0e1.css",
-    "static/js/main.0ed817e7.js"
+    "static/js/main.ca3283dc.js"
   ]
 }
